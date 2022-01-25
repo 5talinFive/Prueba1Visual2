@@ -17,9 +17,6 @@ namespace Modelo
         public DateTime last_update { get; set; }
 
 
-        //public Movimientos Movimientos { get; set; }
-        //public int MovimientosId { get; set; }
-
         public List<payment> payments { get; set; }
     }
 }
