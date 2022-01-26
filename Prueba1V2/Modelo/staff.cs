@@ -19,6 +19,8 @@ namespace Modelo
         public string picture { get; set; }
 
 
+        public List<payment> payments { get; set; }
+        
         public address address { get; set; }
 
         public int address_id { get; set; }
