@@ -17,6 +17,6 @@ namespace Modelo
         public DateTime last_update { get; set; }
 
 
-        public List<payment> payments { get; set; }
+        
     }
 }
